@@ -16,6 +16,6 @@ public class lconditions {
     System.out.println(z);
 
     // switch case
-    
+    //ddd
     }
 }
